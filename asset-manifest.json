@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aditi-b06/ShapeAI.git/static/css/main.6f73ea1d.chunk.css",
+    "main.js": "/aditi-b06/ShapeAI.git/static/js/main.3bfa172c.chunk.js",
+    "main.js.map": "/aditi-b06/ShapeAI.git/static/js/main.3bfa172c.chunk.js.map",
+    "runtime-main.js": "/aditi-b06/ShapeAI.git/static/js/runtime-main.3d3b309b.js",
+    "runtime-main.js.map": "/aditi-b06/ShapeAI.git/static/js/runtime-main.3d3b309b.js.map",
+    "static/js/2.8dcea91a.chunk.js": "/aditi-b06/ShapeAI.git/static/js/2.8dcea91a.chunk.js",
+    "static/js/2.8dcea91a.chunk.js.map": "/aditi-b06/ShapeAI.git/static/js/2.8dcea91a.chunk.js.map",
+    "index.html": "/aditi-b06/ShapeAI.git/index.html",
+    "static/css/main.6f73ea1d.chunk.css.map": "/aditi-b06/ShapeAI.git/static/css/main.6f73ea1d.chunk.css.map",
+    "static/js/2.8dcea91a.chunk.js.LICENSE.txt": "/aditi-b06/ShapeAI.git/static/js/2.8dcea91a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d3b309b.js",
+    "static/js/2.8dcea91a.chunk.js",
+    "static/css/main.6f73ea1d.chunk.css",
+    "static/js/main.3bfa172c.chunk.js"
+  ]
+}
